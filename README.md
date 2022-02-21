@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rifat-Ansari
 - 👀 I’m interested in AI and ML. 
 - 🌱 I’m currently learning AI and ML using python libraries.
-- 💞️ I’m looking to collaborate on Biomedical SciEnce.
+- 💞️ I’m looking to collaborate on Biomedical Science.
 - 📫 How to reach me ansaririfat38@gmail.com
 
 <!---
